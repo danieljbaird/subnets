@@ -1,3 +1,5 @@
+17 Feb 2022: minor layout tweaks to make it centered
+
 # subnets
 Visual subnet calculator as seen at http://www.davidc.net/sites/default/subnets/subnets.html
 
